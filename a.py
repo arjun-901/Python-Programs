@@ -1,0 +1,5 @@
+print("arjun")
+print("arjun")
+var= eval (input('enter a data'))
+print(var)
+print(type(var))

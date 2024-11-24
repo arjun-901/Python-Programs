@@ -1,0 +1,15 @@
+a=10;
+print(a)
+print(type(a))
+a=[10,"arjun",45.4]
+print(a)
+print(type(a));
+a=(10,20,"atrjun",69.6)
+print(a)
+print(type(a))
+a={12,"arjun",34.34}
+print(a)
+print(type(a))
+a={"age":21}
+print(a)
+print(type(a))
